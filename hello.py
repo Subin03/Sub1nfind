@@ -7,7 +7,7 @@ from random import *
 
 
 
-// Hi
+# Hi 
 i = randint(5, 30)  # 1부터 100 사이의 임의의 정수
  
 f = random()   # 0부터 1 사이의 임의의 float
